@@ -13,7 +13,8 @@
 * 💻 삼성 청년 SW 아카데미 10기 1학기 수료 [삼성전자, 멀티캠퍼스] (2023.07.05 ~ 2023.11.24)
 
 ## ✋ Public Project History
-* [신한은행 X SSAFY 해커톤 프로젝트 -> 학생회 공금 관리 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
+* [신한은행 X SSAFY 해커톤 프로젝트 -> 동아리/학생회 공금 관리하는 모바일 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
+* [여러명이 동시에 실시간으로 여행 계획을 작성할 수 있는 웹 서비스, PlanCard](https://github.com/shindonggeun/PlanCard)
 
 <br>
 
