@@ -17,8 +17,8 @@
 ## ✋ Public Project History
 * [신한은행 X SSAFY 해커톤 프로젝트 -> 동아리/학생회 공금 관리하는 모바일 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
 * [여러명이 동시에 실시간으로 여행 계획을 작성할 수 있는 웹 서비스, PlanCard](https://github.com/shindonggeun/PlanCard)
-* [빅데이터 기반 일본어 회화 학습 서비스 플랫폼, Talkydoki]()
-* [실시간 스트리밍과 빅데이터 기반 창업을 위한 상권 분석 서비스 플랫폼, NowDoBoss]() 
+* [빅데이터 기반 일본어 회화 학습 서비스 플랫폼, Talkydoki](https://github.com/shindonggeun/Talkydoki)
+* [실시간 스트리밍과 빅데이터 기반 창업을 위한 상권 분석 서비스 플랫폼, NowDoBoss](https://github.com/shindonggeun/NowDoBoss) 
 
 
 ### 👑 Awards
