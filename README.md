@@ -22,8 +22,7 @@
 * [여러명이 동시에 실시간으로 여행 계획을 작성할 수 있는 웹 서비스, PlanCard](https://github.com/shindonggeun/PlanCard)
 * [신한은행 X SSAFY 해커톤 프로젝트 -> 동아리/학생회 공금 관리하는 모바일 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
 
-
-### 👑 Awards
+## 👑 Awards
 * 🏅 2024.05.24 삼성 청년 SW 아카데미 2학기 자율 프로젝트 우수상 (2등)
 * 🏅 2024.04.05 삼성 청년 SW 아카데미 2학기 특화 프로젝트 우수상 (2등)
 * 🏅 2022.07.15 한국소프트웨어산업협회 MSA 기반 Full Stack 개발자 양성과정 최종 프로젝트 발표회 대상
