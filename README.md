@@ -7,11 +7,12 @@
 ## 🚀 Tech Stack
 - Language: JAVA, JavaScript, Python
 - BackEnd: Spring boot, Spring Security, Spring Data JPA, QueryDSL, Spring Cloud, Spring Batch, Spring Integration, MapStruct, MyBatis, Flyway
+- FrontEnd: TypeScript, Vue.js, React
 - DataBase: MySQL, Oracle, PostgreSQL, MariaDB, Redis, MongoDB 
 - Middleware: Kafka, RabbitMQ
 - Monitoring: Grafana, Prometheus, Spring boot Actuator
-- FrontEnd: TypeScript, Vue.js, React
-- Infra: Docker, Docker Compose, Jenkins, GitLab CI/CD, GitLab Runner, Nginx, AWS EC2, Firebase
+- Infra: Linux Ubuntu, Docker, Docker Compose, Jenkins, GitLab CI/CD, GitLab Runner, Nginx, AWS EC2, AWS LightSail, Firebase
+- BigData: Hadoop, Spark
 - Etc: Git, Github, GitLab, Discord, Slack, Notion
 
 ## ⚙️ Experience
