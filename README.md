@@ -12,7 +12,7 @@
 - Monitoring: Grafana, Prometheus, Spring boot Actuator
 - FrontEnd: TypeScript, Vue.js, React
 - Infra: Docker, Docker Compose, Jenkins, GitLab CI/CD, GitLab Runner, Nginx, AWS EC2, Firebase
-- Etc: Git, Github, GitLab, DisCord, Slack, Notion
+- Etc: Git, Github, GitLab, Discord, Slack, Notion
 
 ## ⚙️ Experience
 * 💻 삼성 청년 SW 아카데미 10기 수료 [삼성전자, 멀티캠퍼스] (2023.07.05 ~ 2024.06.28)
