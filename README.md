@@ -4,6 +4,40 @@
 - 회원 도메인 개발에 많은 관심이 있습니다. 사용자 친화적이고 안전한 회원 관리 시스템 개발에 큰 관심을 가지고 있습니다.
 - Spring Security와 같은 보안 프레임워크를 활용하여 JWT 기반 인증 및 회원 권한에 따른 접근 제어 (Authorization)에 관심이 많습니다. 더욱 정교하고 유연한 권한 관리 시스템을 설계하고 개발하고 싶습니다.
 
+## Skill
+<div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+    <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  </div>
+</div>
+
 ## ⚙️ Experience
 * 💻 삼성 청년 SW 아카데미 10기 수료 [삼성전자, 멀티캠퍼스] (2023.07.05 ~ 2024.06.28)
 * 💻 신한은행 해커톤 with SSAFY 해커톤 과정 수료 [삼성전자, 신한은행, 멀티캠퍼스] (2023.09.01 ~ 2023.09.17)
