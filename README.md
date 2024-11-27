@@ -40,5 +40,5 @@
 * 🏅 2022.07.15 한국소프트웨어산업협회 MSA 기반 Full Stack 개발자 양성과정 최종 프로젝트 발표회 대상
 
 ## 🤖 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsehdrms124)](https://solved.ac/tlsehdrms124)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsehdrms124)](https://solved.ac/tlsehdrms124)
 
