@@ -1,4 +1,6 @@
-# 안녕하세요! 팀원들에게 인정받으며 유능하고 열정있는 백엔드 개발자를 목표로 하고 있는 신동근입니다.
+# 안녕하세요! 팀 내에서 개발자들의 연예인 같은 존재가 되고 싶은 신동근입니다.
+- JAVA를 주 언어로 사용하고 있습니다. 팀원들에게 인정받으며 유능하고 열정있는 백엔드 개발자를 목표로 하고 있습니다.
+- 팀원들이 어려움에 직면했을 때 가장 먼저 떠올리고, 기꺼이 도움을 요청할 수 있는 팀의 마스코트 같은 개발자가 되려고 합니다.
 - 개발에 있어서 사용자의 관점으로 고객들에게 좀 더 효율적이고 빠르게 서비스를 제공하는 것에 대해 관심이 많습니다.
 - 팀원들과 같이 소통하고 협업하는 것을 좋아합니다. 또한 새로운 기술을 습득하는 것을 매우 좋아합니다.
 - 회원 도메인 개발에 많은 관심이 있습니다. 사용자 친화적이고 안전한 회원 관리 시스템 개발에 큰 관심을 가지고 있습니다.
@@ -29,7 +31,7 @@
 * 🎓 명지전문대 정보통신공학과 졸업 (2015.03 ~ 2020.02, 6학기 수강)
 
 ## ✋ Public Project History
-* [실시간 스트리밍과 빅데이터 기반 창업을 위한 상권 분석 서비스 플랫폼, NowDoBoss](https://github.com/shindonggeun/NowDoBoss) → www.nowdoboss.com
+* [실시간 스트리밍과 빅데이터 기반 창업을 위한 상권 분석 서비스 플랫폼, NowDoBoss](https://github.com/shindonggeun/NowDoBoss) → https://www.nowdoboss.com
 * [빅데이터 기반 일본어 회화 학습 서비스 플랫폼, Talkydoki](https://github.com/shindonggeun/Talkydoki)
 * [여러명이 동시에 실시간으로 여행 계획을 작성할 수 있는 웹 서비스, PlanCard](https://github.com/shindonggeun/PlanCard)
 * [신한은행 X SSAFY 해커톤 프로젝트 -> 동아리/학생회 공금 관리하는 모바일 서비스, SSoC](https://github.com/SSoc-Student-SOCiety/SSoc)
