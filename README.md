@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack
 - Language: JAVA, JavaScript, Python
-- BackEnd: Spring boot, Spring Security, Spring Data JPA, QueryDSL, Spring Cloud, Spring Scheduler, Quartz Scheduler, Spring Batch, Spring Integration, MapStruct, MyBatis, Flyway
+- BackEnd: Spring boot, Spring Security, Spring Data JPA, QueryDSL, Spring Cloud, Spring Scheduler, Quartz Scheduler, Spring Integration, MapStruct, MyBatis, Flyway
 - FrontEnd: TypeScript, Vue.js, React
 - DataBase: MySQL, Oracle, PostgreSQL, MariaDB, Redis, MongoDB 
 - Middleware: Kafka, RabbitMQ
