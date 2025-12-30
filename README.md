@@ -1,5 +1,5 @@
 # 안녕하세요! 수영 국가대표를 꿈꿨던 소년에서 지금은 개발자가 된 신동근입니다.
-- JAVA를 주 언어로 사용하고 있습니다. 팀원들에게 인정받으며 유능하고 열정있는 백엔드 개발자를 목표로 하고 있습니다.
+- Java를 주 언어로 사용하고 있습니다. 팀원들에게 인정받으며 유능하고 열정있는 백엔드 개발자를 목표로 하고 있습니다.
 - 팀원들이 어려움에 직면했을 때 저를 가장 먼저 떠올리며, 도움을 요청해도 마다하지 않는 팀의 마스코트 같은 개발자가 되려고 합니다.
 - 개발에 있어서 사용자의 관점으로 고객들에게 좀 더 효율적이고 빠르게 서비스를 제공하는 것에 대해 관심이 많습니다.
 - 팀원들과 같이 소통하고 협업하는 것을 좋아합니다. 또한 새로운 기술을 습득하는 것을 매우 좋아합니다.
@@ -7,8 +7,8 @@
 - Spring Security와 같은 보안 프레임워크를 활용하여 JWT 기반 인증 및 회원 권한에 따른 접근 제어 (Authorization)에 관심이 많습니다. 더욱 정교하고 유연한 권한 관리 시스템을 설계하고 개발하고 싶습니다.
   
 ## 🚀 Tech Stack
-- Language: JAVA, JavaScript, Python
-- BackEnd: Spring boot, Spring Security, Spring Data JPA, QueryDSL, Spring Cloud, Spring Scheduler, Quartz Scheduler, Spring Integration, MapStruct, MyBatis, Flyway
+- Language: Java, JavaScript, Python
+- BackEnd: Spring Boot, Spring Security, Spring Data JPA, QueryDSL, Spring Cloud, Spring Scheduler, Quartz Scheduler, Spring Integration, MapStruct, MyBatis, Flyway
 - FrontEnd: TypeScript, Vue.js, React
 - DataBase: MySQL, Oracle, PostgreSQL, MariaDB, Redis, MongoDB 
 - Middleware: Kafka, RabbitMQ
