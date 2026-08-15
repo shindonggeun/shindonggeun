@@ -34,7 +34,7 @@
 * 🎓 명지전문대 정보통신공학과 졸업 (2015.03 ~ 2020.02, 6학기 수강)
 
 ## ✋ Public Project History
-* [여행 미션 기반 보드게임형 관광 서비스 TripMarble](https://github.com/8llow8llowMe/TripMarble) → https://www.tripmarble.com
+* [여행 미션 기반 보드게임형 관광 서비스 TripMarble](https://github.com/8llow8llowMe/tripmarble) → https://www.tripmarble.com
 * [서울시 상권 분석 서비스 플랫폼, NowDoBoss](https://github.com/8llow8llowMe/NowDoBoss) → https://www.nowdoboss.com
 * [빅데이터 기반 일본어 회화 학습 서비스 플랫폼, Talkydoki](https://github.com/shindonggeun/Talkydoki)
 * [여러명이 동시에 실시간으로 여행 계획을 작성할 수 있는 웹 서비스, PlanCard](https://github.com/shindonggeun/PlanCard)
