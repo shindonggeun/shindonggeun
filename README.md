@@ -34,7 +34,7 @@
 * 🎓 명지전문대 정보통신공학과 졸업 (2015.03 ~ 2020.02, 6학기 수강)
 
 ## ✋ Public Project History
-* [관광 데이터를 기반으로 반려견 맞춤 여행을 설계하고, 최적의 여행 의사결정을 지원하는 AI 기반 스마트 관광 서비스 (2026 관광데이터 활용 공모전), Hondigagae](https://github.com/8llow8llowMe/hondigagae) → https://dev.hondigagae.com
+* [관광 데이터를 기반으로 반려견 맞춤 여행을 설계하고, 최적의 여행 의사결정을 지원하는 AI 기반 스마트 관광 서비스 (2026 관광데이터 활용 공모전), Hondigagae](https://github.com/8llow8llowMe/hondigagae) → https://www.hondigagae.com
 * [서울시 상권 공공데이터 기반 서울시 상권 분석 서비스 프로젝트, BossPickSeoul](https://github.com/8llow8llowMe/bosspickseoul) → https://dev.bosspickseoul.com
 * [여행 미션 기반 보드게임형 관광 서비스, TripMarble](https://github.com/8llow8llowMe/tripmarble)
 * [서울시 상권 분석 서비스 플랫폼, NowDoBoss](https://github.com/8llow8llowMe/NowDoBoss)
